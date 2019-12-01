@@ -1,2 +1,3 @@
-# Djangola
-Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+<p align="center"><a href="https://opensource.roghib.org"><img src="https://avatars3.githubusercontent.com/u/26247605" alt="Roghib" title="Roghib" height="150" width="150" /></a></p>
+
+<h1 align="center">Djangola</h1>

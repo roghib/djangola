@@ -1,6 +1,8 @@
 version: 2
 sphinx:
   builder: html
-  configuration: conf.py
+  configuration: docs/source/conf.py
   fail_on_warning: true
 formats: all
+python:
+  version: 3.8.0

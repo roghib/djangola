@@ -1,0 +1,18 @@
+{
+  "name": "djangola",
+  "version": "1.0.0",
+  "description": "Build anything with Roghib.",
+  "author": "Roghib",
+  "license": "MIT",
+  "keywords": [
+    "Django"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roghib/djangola.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roghib/djangola/issues"
+  },
+  "homepage": "https://github.com/roghib/djangola#readme"
+}

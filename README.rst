@@ -1,5 +1,8 @@
-##########
-Djangola
-##########
-.. image:: https://avatars3.githubusercontent.com/u/26247605?s=90&v=4
-    :target: https://opensource.roghib.org
+=========
+Djangola |rtd|
+=========
+
+.. |rtd| image:: https://readthedocs.org/projects/djangola/badge/?version=latest
+    :target: https://djangola.readthedocs.io/en/latest/?badge=latest
+
+It’s quick & easy to get up and running with Django.

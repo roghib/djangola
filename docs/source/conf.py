@@ -20,8 +20,7 @@
 project = 'Djangola'
 copyright = '2019, Roghib'
 author = 'Roghib'
-
-# The full version, including alpha/beta/rc tags
+version = '1.0.0'
 release = '1.0.0'
 
 
